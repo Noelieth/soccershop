@@ -33,7 +33,7 @@ localhost/soccersop
 * [AJAX](https://api.jquery.com/jquery.ajax/) - A browser built-in XMLHttpRequest object
 * [MySQL](https://dev.mysql.com/doc/) - relational database
 
-## Autores ✒️
+## Authors ✒️
 
 * **Noelieth Longart** - [noeliethlongart](https://www.behance.net/noeliethlongart)
 * **Manuel Albani** - [mnlalbani](https://github.com/mnlalbani)
